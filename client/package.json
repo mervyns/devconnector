@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
+    "jwt-decode": "^2.2.0",
     "qs": "^6.5.2",
     "querystring": "^0.2.0",
     "react": "^16.4.1",
